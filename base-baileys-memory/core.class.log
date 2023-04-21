@@ -283,3 +283,163 @@
   body: 'enseñame',
   from: '5219842343944'
 }
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219842343944@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB081D10CC9E2EF9EA277',
+    participant: undefined
+  },
+  messageTimestamp: 1682055245,
+  pushName: 'Héctor Ruiz',
+  message: Message {
+    conversation: 'no te voy a decir 7u7',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'no te voy a decir 7u7',
+  from: '5219842343944'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219842343944@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB092CE3C32B3946FD425',
+    participant: undefined
+  },
+  messageTimestamp: 1682055249,
+  pushName: 'Héctor Ruiz',
+  message: Message {
+    conversation: 'pero más de 2 sí',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'pero más de 2 sí',
+  from: '5219842343944'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219842343944@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0722350084E02010C58',
+    participant: undefined
+  },
+  messageTimestamp: 1682055300,
+  pushName: 'Héctor Ruiz',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    reactionMessage: ReactionMessage {
+      key: [MessageKey],
+      text: '👍',
+      senderTimestampMs: [Long]
+    }
+  },
+  body: '',
+  from: '5219842343944'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219842343944@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB07908C90E6A5C3E8726',
+    participant: undefined
+  },
+  messageTimestamp: 1682055306,
+  pushName: 'Héctor Ruiz',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '5 o 6',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '5 o 6',
+  from: '5219842343944'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219842343944@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0658FD1ADA58E38AB32',
+    participant: undefined
+  },
+  messageTimestamp: 1682055308,
+  pushName: 'Héctor Ruiz',
+  message: Message {
+    conversation: 'y tú?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'y tú?',
+  from: '5219842343944'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219842343944@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0002C7DFAA46C780EF8',
+    participant: undefined
+  },
+  messageTimestamp: 1682055321,
+  pushName: 'Héctor Ruiz',
+  message: Message {
+    conversation: 'enserio?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'enserio?',
+  from: '5219842343944'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219842343944@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB07C87E45E5BF8312B81',
+    participant: undefined
+  },
+  messageTimestamp: 1682055331,
+  pushName: 'Héctor Ruiz',
+  message: Message {
+    conversation: 'diablos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'diablos',
+  from: '5219842343944'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219842343944@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB036D3D002415CD8BD4F',
+    participant: undefined
+  },
+  messageTimestamp: 1682055334,
+  pushName: 'Héctor Ruiz',
+  message: Message {
+    conversation: 'no sabía',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'no sabía',
+  from: '5219842343944'
+}

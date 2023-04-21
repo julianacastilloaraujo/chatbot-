@@ -18,7 +18,10 @@ Chatbot realizado con la guia de  [codigoencasa](https://app.codigoencasa.com/co
   -¿Has notado cambios en tu apetito o peso?
 
   -¿Te sientes abrumado o sin esperanza ante los desafíos?
-  
+
   -¿Has tenido pensamientos recurrentes de muerte o suicidio?
 
 
+# QR acceso a conexion con el Chatbot
+
+![Image text](https://github.com/jlianacastillo/chatbot-/blob/main/base-baileys-memory/bot.qr.png)
