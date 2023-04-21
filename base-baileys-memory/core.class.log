@@ -1,0 +1,81 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219842343944@s.whatsapp.net',
+    fromMe: false,
+    id: 'FCEF016F7B49DCE24E4CEC63B8604F85',
+    participant: undefined
+  },
+  messageTimestamp: 1682054430,
+  pushName: 'Héctor Ruiz',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Sy wey',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Sy wey',
+  from: '5219842343944'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219842343944@s.whatsapp.net',
+    fromMe: false,
+    id: 'B7CE8E3E558E18D26E045515FAD58CC2',
+    participant: undefined
+  },
+  messageTimestamp: 1682054465,
+  pushName: 'Héctor Ruiz',
+  message: Message {
+    conversation: 'Yap qué',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Yap qué',
+  from: '5219842343944'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219842343944@s.whatsapp.net',
+    fromMe: false,
+    id: '8A989643DBCC7373EC7107AA7350784F',
+    participant: undefined
+  },
+  messageTimestamp: 1682054471,
+  pushName: 'Héctor Ruiz',
+  message: Message {
+    conversation: 'Terminaste el curso?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Terminaste el curso?',
+  from: '5219842343944'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219842343944@s.whatsapp.net',
+    fromMe: false,
+    id: 'EB109521C3BC42BD33342AE61109738D',
+    participant: undefined
+  },
+  messageTimestamp: 1682054472,
+  pushName: 'Héctor Ruiz',
+  message: Message {
+    conversation: '💀',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '💀',
+  from: '5219842343944'
+}
