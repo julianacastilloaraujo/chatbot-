@@ -245,3 +245,41 @@
   body: ':(',
   from: '5219842343944'
 }
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219842343944@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB05E3516DD0D81EBF389',
+    participant: undefined
+  },
+  messageTimestamp: 1682054693,
+  pushName: 'Héctor Ruiz',
+  message: Message {
+    conversation: 'no sé hablar sin ofenderte',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'no sé hablar sin ofenderte',
+  from: '5219842343944'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219842343944@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB01EF3221CB704555C24',
+    participant: undefined
+  },
+  messageTimestamp: 1682054699,
+  pushName: 'Héctor Ruiz',
+  message: Message {
+    conversation: 'enseñame',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'enseñame',
+  from: '5219842343944'
+}
