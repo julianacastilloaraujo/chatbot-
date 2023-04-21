@@ -79,3 +79,169 @@
   body: '💀',
   from: '5219842343944'
 }
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219842343944@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB05493D636D327E45714',
+    participant: undefined
+  },
+  messageTimestamp: 1682054598,
+  pushName: 'Héctor Ruiz',
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '5219842343944'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219842343944@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB05493D636D327E45714',
+    participant: undefined
+  },
+  messageTimestamp: 1682054599,
+  pushName: 'Héctor Ruiz',
+  message: Message {
+    conversation: 'debes en cuando debes perder unas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'debes en cuando debes perder unas',
+  from: '5219842343944'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219842343944@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0F342E1C035E99DC30B',
+    participant: undefined
+  },
+  messageTimestamp: 1682054604,
+  pushName: 'Héctor Ruiz',
+  message: Message {
+    conversation: 'para no atrofiar tu cerebro',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'para no atrofiar tu cerebro',
+  from: '5219842343944'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219842343944@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0EA07579A6A4713760D',
+    participant: undefined
+  },
+  messageTimestamp: 1682054609,
+  pushName: 'Héctor Ruiz',
+  message: Message {
+    conversation: 'no le sabes a la neurociencia',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'no le sabes a la neurociencia',
+  from: '5219842343944'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219842343944@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0ADE96732DA1E257D56',
+    participant: undefined
+  },
+  messageTimestamp: 1682054613,
+  pushName: 'Héctor Ruiz',
+  message: Message {
+    conversation: ':p',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: ':p',
+  from: '5219842343944'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219842343944@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB03C5459D03CE6B0CE8F',
+    participant: undefined
+  },
+  messageTimestamp: 1682054650,
+  pushName: 'Héctor Ruiz',
+  message: Message {
+    conversation: 'qué?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'qué?',
+  from: '5219842343944'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219842343944@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB03351B686592A745E73',
+    participant: undefined
+  },
+  messageTimestamp: 1682054660,
+  pushName: 'Héctor Ruiz',
+  message: Message {
+    conversation: 'no dije ningún insulto',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'no dije ningún insulto',
+  from: '5219842343944'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219842343944@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB06ECA7B9CF0F880F5BC',
+    participant: undefined
+  },
+  messageTimestamp: 1682054680,
+  pushName: 'Héctor Ruiz',
+  message: Message {
+    conversation: 'pues me disculpo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'pues me disculpo',
+  from: '5219842343944'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219842343944@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB045315673D606943CC7',
+    participant: undefined
+  },
+  messageTimestamp: 1682054687,
+  pushName: 'Héctor Ruiz',
+  message: Message {
+    conversation: ':(',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: ':(',
+  from: '5219842343944'
+}
